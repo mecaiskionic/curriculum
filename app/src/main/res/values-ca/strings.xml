@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Curriculum Isaac</string>
+
+<!-- __________________________________________DADES PERSONALS_________________________________________________-->
+<!--***********************************************************************************************************-->
+
+    <!--______________TITULS DE DADES______________-->
+    <string name="Tnom">Nom i cognoms: </string>
+    <string name="TDNI">DNI: </string>
+    <string name="Tneixement">Data de naixement: </string>
+    <string name="Tadresa">Adreça: </string>
+    <string name="Ttelefon">Telèfon: </string>
+    <string name="Tmail">E-Mail: </string>
+    <string name="Testat">Estat civil: </string>
+
+    <!--_________________DADES_____________________-->
+    <string name="nom">Isaac Serrano Segura</string>
+    <string name="DNI">47824289K</string>
+    <string name="neixement">Pinell de Brai,\n 19 d\'abril de 1985</string>
+    <string name="adresa">Av. Tarragona 19 3/3º,\n Vilafranca del Penedès,\n08720</string>
+    <string name="telefon">628039336</string>
+    <string name="mail">serranosegurai@gmail.com</string>
+    <string name="estat">Casat/sense fills</string>
+
+    <!--___________________________________TITULS DE LES SECCIONS O FRAGMENTS______________________________________ -->
+    <!--***********************************************************************************************************-->
+    <string name="index">Dades personals</string>
+    <string name="academic">Formació acadèmica</string>
+    <string name="profecional">Experiència professional</string>
+    <string name="coneixements">Coneixements adquirits</string>
+    <string name="complementari">Dades complementàries</string>
+    <string name="projectes">Projectes personals</string>
+    <string name="descripcio">Descripció</string>
+
+    <!--___________________________________TITULS DE LES SECCIONS O FRAGMENTS______________________________________ -->
+    <!--***********************************************************************************************************-->
+    <string name="trucar">Trucar</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="configurar">Configuració</string>
+    <string name="about">Informació</string>
+    <string name="sortir">Sortir</string>
+
+    <!--___________________________________CONTINGUT DE LA ACTVITAT INFORMACIÓ______________________________________ -->
+    <!--***********************************************************************************************************-->
+    <string name="titulinfo">Curriculum Isaac (Beta)</string>
+    <string name="contingutInfo">
+        -App programada per Isaac Serrano\n
+        -Versió 2.04, Actualitzat 16/02/2023\n
+        -Versió encara en beta, això significa que la programació està acabada, ara es distribueix i és provarà
+        en diversos dispositius diferents, si teniu algun problema de funcionament o visualització, reporteu el
+        problema per ser reparat.\n\n
+        -Dades actualitzades 01/02/2023.
+    </string>
+
+    <!--____________________________________________FRAGMENT ESTUDIS________________________________________________ -->
+    <!--***********************************************************************************************************-->
+
+    <!--________________ESTUDIS____________________ -->
+    <string name="eso">-ESO. Institut d\’Ensenyament Secundari i Idiomes Terra Alta. 1997/2002.</string>
+    <string name="mitja">-Cicle Mitjà de Mecanització. IES de l\’Ebre. 2002/2004.</string>
+    <string name="cnc">-Curs de 609h de Programador de Maquines CNC. ASCAMM. 2004.</string>
+    <string name="matrius">-Curs de 590h de delineant de matrius.  ASCAMM. 2005.</string>
+    <string name="superior1">-Cicle Superior de producció per mecanització. IES Jaume Mimó. 2006/2007</string>
+    <string name="superior2">-Cicle Superior de producció per mecanització. IES de l\'Ebre. 2007/2008</string>
+    <string name="plc">-Curs programador d\'autòmats PLC. Euroinnova. 2009</string>
+    <string name="angles">-Estudi de anglès ABA English 2014/2017</string>
+    <string name="motlles">-Curs de disseny de Motlles. ASCAMM 2017</string>
+    <string name="cimatron">-Curs de Cimatron E. Cimatech 2017</string>
+    <string name="mecanografia">-Curs de Mecanografia. TypingStudy 2019</string>
+    <string name="carrera">-Inici del grau de Enginyeria Mecànica. UNED 2019-En curs</string>
+
+    <!--________________CURIOSITATS____________________ -->
+    <string name="curiosidad_cnc">-Com tota carrera professional es comença per la formació, de la qual
+        m\'agradaria destacar els estudis CNC a ASCAMM, allà vaig ser el millor de la promoció, acabant la
+        formació amb un avantatge d\'un mes i mig de treball fet més que el segon de la promoció.
+    </string>
+    <string name="curiosidad_superior">-Al cicle superior. allà vaig impartir dos trimestres
+        de classe als meus companys, l\'assignatura era CAD-CAM, i el professor va considerar que jo tenia més
+        coneixements de la matèria que ell mateix, així proposant donar jo les classes.</string>
+
+
+    <!--__________________________________________FRAGMENT PROFECIONAL______________________________________________ -->
+    <!--***********************************************************************************************************-->
+
+    <!--________________EMPRESES____________________ -->
+    <string name="goro">GORO. 2006/2010.</string>
+    <string name="norelacio">Feines no relacionades amb la producció 2010/2012</string>
+    <string name="canela">CANELA TOOLS. 2013/2014.</string>
+    <string name="multivac">MULTIVAC. 2014/2016.</string>
+    <string name="proto">PROTO-TECH. 2016.</string>
+    <string name="molmat">MOLMAT. 2017/Actualitat</string>
+
+    <!--________________EXPLICACIO____________________ -->
+
+    <string name="explic">Selecciona una experiència per rebre la informació</string>
+
+    <!--________________DESCRIPCIO____________________ -->
+
+    <string name="dgoro">
+        -GORO és una empresa que va ser tancada al 2010 per la crisi econòmica del 2008.\n
+        Es dedicava a la fabricació de productes de regal, decoració, joieria, productes per encàrrec…\n
+        -Les meves funcions van ser molt variades, pel tipus de producte que feien tan variat, també utilitzaven
+        moltes formes de producció molt diferents, a més, per les meves inquietuds i implicació vaig tenir una important
+        evolució, des de netejar el taller fins a dirigir la producció.\n
+        Allí vaig fer feines manuals, tornejar, fresar, polir, soldar amb molt diferents tècniques, fer motlles a la
+        cera perduda, matrius de tall, pintar, programar CNC, dissenyar procediments de treball, organitzar la
+        feina, disseny 3D i moltes més coses.\n
+        També vaig treballar amb molts materials, metalls industrials, molts tipus de fusta, metalls preciosos, plàstics…\n
+        -Agraeixo enormement la confiança que van dipositar amb mi posant-me de cap de taller amb tan sols 23 anys,
+        tan sols dirigia 8 persones, però va ser un gran aprenentatge per a mi.
+        Allà vaig realitzar estudis productius i vaig implantar sistemes productius molt diferents dels utilitzats fins al
+        moment, fins i tot vaig dissenyar, mecanitzar i muntar, vàries màquines automàtiques i adaptades als nous sistemes de
+        producció, augmentant així, més d\'un 250% la productivitat.
+    </string>
+
+    <string name="dnorelacio">
+        -Durant aquest període de temps, per la zona on vaig néixer i estava vivint, era pràcticament impossible treballar
+        al món de la indústria, així que vaig decidir fer servir alguna altra de les meves habilitats per guanyar-me la vida.
+        D\'aquesta manera vaig començar a donar classes de guitarra, privades i a escoles, a fer classes d\'escacs, i fer de
+        guia turístic els caps de setmana, inclús vaig començar la composició d\'un disc d\'autor.\n
+        -A finals de 2012 vaig decidir tornar al camí de la indústria deixant el meu poble, família i amics per anar a
+        buscar-me la vida a Barcelona.
+    </string>
+
+    <string name="dcanela">
+        -CANELA TOOLS és una empresa de fabricació d\'eines de tall per a torns, fresadores, etc.\n
+        -El meu lloc de treball era a oficina tècnica com a programador de CNC.\n
+        -La meva funció era optimitzar els programes CNC de la planta de fabricació, la forma de funcionar era com si
+        no existís programa, sobre l\'estoc existent, es creaven ordres de treball automàtiques que tenien que entrar a màquina
+        com més prompte millor. Llavors, jo reprogramava el programa optimitzant codi i temps, els passava a màquina
+        responsabilitzant-me del bon funcionament dels programes, així com de la línia de producció formada per 10
+        fresadores, les quals havien de ser alimentades constantment.\n
+        -En aquest punt m\'agrada ressaltar que tot eren fresadores de 5 eixos, i es programava picant codi manualment per
+        optimització dels moviments de la màquina, utilitzant llenguatge paramètric d\'alt nivell. M\'agrada tenir això en
+        compte perquè després d\'uns anys a la indústria, he pogut comprovar que no hi ha molta gent capaç de fer-ho.\n
+        -Vaig implantar un nou sistema de programació més eficient, on optimitzava l\'estratègia de mecanitzat garantint
+        la mateixa qualitat amb major producció. La meva feina allí es va acabar una vegada tots els programes van ser
+        optimitzats.
+    </string>
+
+    <string name="dmultivac">
+        -MULTIVAC és una empresa de fabricació de maquinària i motlles per a embalatge.\n
+        -Vaig entrar aquí com a torner CNC en unes màquines de producció en sèrie, en tan sols 2 mesos era preparador,
+        en 6 mesos les meves preparacions eren les millors de la planta, ja que vaig optimitzar el procediment i
+        reprogramava els programes fent que foren molt més ràpid. Així que a l\'any em van passar als centres de mecanitzat
+        a fer peces especials.\n
+        -Vaig aplicar sistemes normalitzats de treball per als preparadors, vaig optimitzar procediments de treball, vaig
+        implementar nous sistemes de programació, inclús vaig organitzar tests d\'eines, plaques, i velocitats de tall.\n
+        -Fins que el meu superior directe, el cap de secció, va decidir promocionar-me sols a mi, com a únic programador
+        de torns de tota la planta.\n
+        -Va ser una gran experiència en una gran multinacional, amb una planta de 150 treballadors, la més gran que
+        havia treballat fins al moment, però malauradament, vaig decidir deixar aquest lloc per una gran oferta laboral.
+    </string>
+
+    <string name="dproto">
+        -PROTO-TECH és una empresa que es dedica a la fabricació de prototips per l\'automòbil, tant peces
+        per al muntatge del primer cotxe, com el mecanitzat d\'un cotxe escala 1:1. També fan matrius per la
+        indústria de l\'automòbil, calibres per la comprovació de la qualitat de la producció, i unes quantes coses més.\n
+        -Em van contractar com a programador CAD-CAM a oficina tècnica.\n
+        -En aquesta experiència vaig fer diverses coses interessants, com treballar en fresadores CNC gegants i
+        utilitzar i programar el meu primer robot, era un braç articulat de 6 eixos KUKA, ningú sabia com funcionava
+        i el tenien allí parat, fins que el vaig posar en funcionament.\n
+        -Al final per desavinences amb el cap de taller vaig decidir deixar el treball.
+    </string>
+
+    <string name="dmolmat">
+        -MOLMAT és una empresa de fabricació de motlles i matrius. Les mides dels útils són mitjans i grans, entre 1 i 20 tones.
+        Els tipus de motlles que treballen són, fosa d\'alumini, termoestables per vulcanitzat a pressió, injecció de
+        diferents tipus de plàstic, rotatoris bi-matèria…\n
+        -El lloc de treball es com a projectista de motlles. Les funcions bàsiques consisteixen en dissenyar els motlles,
+        tot i que part de la meva feina is el contacte directe amb el client per adaptar els disseny a les seves nessecitats,
+        creació d\'avantprojecte, disseny i dibuix 3D del projecte, crear documentació per la fabricació, contacte amb
+        proveïdors, demanda de pressupostos i realitzar compres, seguiment de fabricació i muntatge, seguiment de les proves
+        i gestionar retocs.\n
+        -Com no pot ser d\'una altra forma, vaig implementar millores als procediments de treball, com per exemple, creació
+        d\'un sistema de generació de les llistes de materials automàtices, la introducció d\'aquestes llistes al sistema de
+        gestió automàticament, creació d\'un nou quadern de càrregues, normalització de 3Ds parametritzats, creació d\'un
+        sistema de compra basat amb plantilles de correus prefabricats, desenvolupament de softwares, creació de
+        càlculs matemàtics, programar una IA per la presa de decisions, simulacións de moviment, avaluació de proveïdors…\n
+        -Estic buscant una empresa més gran amb més recursos, ón la falta de recursos no impideixi la implementació
+        dels meus coneixements en tots els ambits.
+    </string>
+
+    <!--__________________________________________FRAGMENT CONEIXEMENTS______________________________________________ -->
+    <!--***********************************************************************************************************-->
+
+    <!--________________TIPO____________________ -->
+    <string name="cad">CAD</string>
+    <string name="cam">CAM</string>
+    <string name="fresa">Fresadora CNC</string>
+    <string name="torn">Torn CNC</string>
+    <string name="llenguatges">+ Programació</string>
+    <string name="programes">Ofimàtica</string>
+    <string name="idiomes">Idiomes</string>
+    <string name="complementaries">Complementari</string>
+
+    <!--________________DADES____________________ -->
+    <string name="Dcad">
+        -Cimatron E\n
+        -Inventor\n
+        -Autocad\n
+        -Catia\n
+        -FreeCad
+    </string>
+    <string name="Dcam">
+        -Cimatron E\n
+        -Tebis\n
+        -SprutCam
+    </string>
+    <string name="Dfresa">
+        -Fagor\n
+        -Siemens\n
+        -Heidenhain\n
+        -Fanuc
+    </string>
+    <string name="Dtorn">
+        -Siemens\n
+        -Fanuc
+    </string>
+    <string name="Dllenguatges">
+        -Java\n
+        -Android\n
+        -SQL\n
+        -Python\n
+        -Prolog\n
+        -Més…
+    </string>
+    <string name="Dprogrames">
+        -Entorn Office\n
+        -Entorn Google\n
+        -Equivalents Open source\n
+        -OS Windows and Linux
+    </string>
+    <string name="Didiomes">
+        -Català Natiu\n
+        -Castellà Natiu\n
+        -Anglés B2 Intermedi/alt
+
+    </string>
+    <string name="Dcomplementaries">
+        -Carnet B de Conduir\n
+        -Professor de guitarra\n
+        -Arts Marcials\n
+        -Dibuix Escola d\'art
+    </string>
+
+    <!--__________________________________________FRAGMENT PROJECTES______________________________________________ -->
+    <!--***********************************************************************************************************-->
+
+    <!--________________TIPO____________________ -->
+    <string name="composicio">Compondre Música</string>
+    <string name="aplicacio">APP Android distribuïda</string>
+    <string name="os">El meu propi sistema operatiu</string>
+    <string name="Maquina">Construir una máquina CNC</string>
+    <string name="IA_gestio">Programa de gestió amb IA</string>
+
+
+    <!--________________DADES____________________ -->
+    <string name="Dcomposicio">
+        He compost diverses cançons a la meva vida, mai n\'he publicat cap. Però podríem dir que com a repte de compondre música, repte aconseguit,
+           com a segon repte en aquest aspecte, hauria de publicar les meves composicions algun dia en forma d\'àlbum, o posar-les al mercat per
+           que un bon intèrpret les faci públiques.
+    </string>
+    <string name="Daplicacio">
+        Vaig crear una aplicació mòbil sencera jo sol.\n
+         Un dia em vaig trobar amb el problema d\'anar a una entrevista de feina i no tenia el currículum actualitzat, jo tinc el currículum en 3 idiomes,
+         llavors actulitzar el currículum requereix una feina, a més tenia una carpeta al meu ordinador amb moltes actualitzacions en 3 idiomes.\n
+         També em vaig adonar que cada entrevista de treball que havia de fer havia d\'imprimir diverses còpies de diverses pàgines amb diversos idiomes,
+         llavors vaig programar aquesta aplicació per al meu currículum.\n\n
+         Aleshores, vaig pensar que seria un problema que molta gent tindria. Vaig començar a programar una app genèrica, vaig comprar maquinari i vaig muntar el meu propi servidor,
+         vaig programar una base de dades amb mysql, vaig començar a pagar per una ip estatica i vaig penjar l\'aplicació a google play.
+         Com que no podia dedicar-li el temps que requereix el manteniment d\'una App d\'aquestes característiques, vaig decidir apagar el servidor i treure-la.\n
+         Projecte Realitzat.
+
+    </string>
+    <string name="Dos">
+        Com en la meva experiència laboral, tant en màquina, com a programador o dissenyador, em vaig adonar que la meva eina principal en realitat sempre era
+         un ordinador, em vaig decidir aprendre més sobre l\'eina de treball que feia servir diàriament, llavors vaig començar a investigar sobre sistemes operatius.\n
+         Amb aquesta inquietud i l\'obsessió de fer eficient tot el que m\'envolta, vaig decidir modelar l\'eina perquè fes el que jo volgués
+         com jo vull.\n
+         Gràcies a la comunitat d\'informàtics i programari lliure vaig poder agafar eines i programes ja programats com ara el nucli de linux, una terminal d\'ordres,
+         i un gestor de paquets. A partir d\'aquí vaig buscar paquets ja creats, per a funcions bàsiques com el servidor de pantalla que tradueix les dades de l\'ordinador
+         en dades de pantalla, o bluetooth, etc. Vaig programar el meu propi escriptori amb un projecte que vaig trobar que et permet programar-lo amb python, vaig dissenyar el
+         comportament de les finestres que s\'ordenaven automàticament segons una ordre donada amb el teclat, vaig crear menús, vaig posar informació necessària per a mi a la
+         barra de tasques, com el preu d'algunes accions al costat de la data i l'hora per estar informat, ordres de teclat per a un treball més ràpid.\n
+         En fi vaig deixar l'eina a mida.\n
+         Vaig culminar aquest projecte amb la creació del mateix sistema operatiu creat, com a instal·lable i amb un live en USB, on amb un USB podia arrencar-lo a
+         qualsevol ordinador, treballar amb el meu sistema operatiu, configuració i programes, i treure'l deixant l'ordinador en qüestió com estava, sense deixar rastre.\n
+         Projecte acabat.
+    </string>
+    <string name="Dcnc">
+        Treballant en una fresadora i torn sempre imaginava com automatitzar la feina, com afegir un carregador de peça, com canviar una peça d\'una màquina a una altra,
+         afegir sistemes d\'obertura de màquina, neteja automatica…\n
+         Un cop vaig adquirir els coneixements de sistemes i programari necessaris, vaig començar amb aquest projecte, dissenyar mecànicament una màquina, muntar el maquinari i programar
+         el meu propi cnc, dotant el projecte d\'una gran part electrònica i elèctrica.
+         Projecte en curs, treballant a la part electrònica.
+    </string>
+    <string name="DIA">
+        Després d\'adquirir uns bons coneixements de programari, amb android, python, java… vaig pensar fer un pas més en l\'automatització, havia imaginat centenars de vegades
+         com programar un programa de gestió d\'empresa més personalitzat, més eficient del que havia vist fins ara, volia una mica més automàtic.\n
+         Per això vaig pensar que la màxima automatització és que les màquines aprenguessin a prendre decisions encertades per si mateixes, i em vaig endinsar en l\'apassionant
+         món de la intel·ligència artificial, em vaig adonar que hi ha grans avenços en el llenguatge i la visió, però que la presa de decisions que afecten el funcionament
+         d\'una empresa amb les seves tasques, no era estès i requeria més coneixements, matemàtiques i algoritmia.
+         En aquest moment estic desenvolupant un projecte de programari per a una empresa de motlles simulada, que és on tinc lexperiència laboral, aquest projecte és més complex
+         i costós que els altres, ja que tinc pensat ensenyar les màquines a dissenyar els motlles, programar les màquines CNC, organitzar la feina, fer pressupostos,
+         contactar amb proveïdors, compra de materials… tot automàticament.\n
+         Ja tinc en la meva ment com ho faré, programat part del disseny automàtic i part de la interfície gràfica, però encara em queden moltes hores de treball i alguna de
+         investigació, però estic totalment capacitat per dur-ho a terme que ja em sembla un èxit en si.\n
+         Projecte en desenvolupament.
+    </string>
+</resources>

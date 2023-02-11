@@ -1,0 +1,164 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TablaMain">
+        <item name="android:padding">@dimen/padingtextoMain</item>
+    </style>
+
+    <style name="TextoTMain">
+        <item name="android:padding">@dimen/padingtextoMain</item>
+        <item name="android:textSize">@dimen/textoMain</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/textoTmain</item>
+
+    </style>
+
+    <style name="TextoMain">
+        <item name="android:padding">@dimen/padingtextoMain</item>
+        <item name="android:textSize">@dimen/textoMain</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/textoTmain</item>
+
+    </style>
+
+    <style name="TitolFragment">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padingtitols</item>
+        <item name="android:textSize">@dimen/titols</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/titols</item>
+        <item name="android:background">@drawable/fondo_titul</item>
+        <item name="android:gravity">center_horizontal</item>
+
+    </style>
+
+    <style name="TextEstudis">
+        <item name="android:padding">@dimen/padingtextoEstudis</item>
+        <item name="android:textSize">@dimen/textEstudis</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/textEstudis</item>
+
+    </style>
+
+    <!--__________________________________APARENÇA FRAGMENT PROFECIONAL________________________________________________-->
+
+    <style name="logo">
+        <item name="android:layout_height">@dimen/altologo</item>
+        <item name="android:layout_width">@dimen/anchoLogo</item>
+        <item name="android:layout_weight">5</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="botonEmpresa">
+        <item name="android:layout_width">@dimen/anchoBoton</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/padingbotonProfecional</item>
+        <item name="android:paddingRight">@dimen/margelateralbotonProfecional</item>
+        <item name="android:minHeight">@dimen/altoMinBoton</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/textBotoProfecional</item>
+        <item name="android:textStyle">italic</item>
+
+        <item name="android:background">@drawable/botoexperiencia</item>
+        <item name="android:textColor">@color/textBotonProfecional</item>
+
+    </style>
+    <!--_______________________________APARENÇA DE LA DESCRIPCIO PROFECIONAL_________________________________________-->
+
+    <style name="logoAd">
+        <item name="android:layout_height">@dimen/altologoDescripcio</item>
+        <item name="android:layout_width">@dimen/anchoLogoDescripcio</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="titulAd">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padingtitulDescripcio</item>
+        <item name="android:textSize">@dimen/tituloDescripcion</item>
+        <item name="android:layout_weight">0</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/titulDescripcio</item>
+
+    </style>
+
+    <style name="botonAd">
+        <item name="android:layout_width">@dimen/altoBotonAd</item>
+        <item name="android:layout_height">@dimen/altoBotonAd</item>
+        <item name="android:layout_margin">@dimen/padingbotonAd</item>
+
+        <item name="android:minHeight">@dimen/altoMinBotonAd</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="textAd">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/textoDescripcionPadS</item>
+        <item name="android:layout_marginEnd">@dimen/textoDescripcionPadE</item>
+        <item name="android:layout_marginBottom">@dimen/textoDescripcionPadB</item>
+        <item name="android:background">@color/fondoDescripcio</item>
+        <item name="android:textColor">@color/textDescripcio</item>
+        <item name="android:textSize">@dimen/textoDescripcion</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <!--_________________________________________________ESTILS CARTES_____________________________________-->
+
+    <style name="Carta">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/margeCarta</item>
+        <item name="cardCornerRadius">@dimen/radiCarta</item>
+        <item name="cardElevation">@dimen/ElevadorCarta</item>
+        <item name="cardMaxElevation">@dimen/ElevadorMaxCarta</item>
+        <item name="cardBackgroundColor">#ffffff</item>
+        <item name="cardUseCompatPadding">true</item>
+
+    </style>
+
+    <style name="TitulCarta">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padingtitulCarta</item>
+        <item name="android:textSize">@dimen/titulCarta</item>
+        <item name="android:layout_marginBottom">@dimen/separadortitul</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/titulCarta</item>
+        <item name="android:background">@drawable/titul_carta</item>
+    </style>
+
+    <style name="TextCarta">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padingtextCarta</item>
+        <item name="android:textSize">@dimen/textCarta</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:background">#ffffff</item>
+        <item name="android:textColor">@color/textCarta</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--____________________MIDES DEL MAINMENU__________________-->
+
+    <!--___________IMAGEN______________-->
+    <dimen name="anchoCara">386dp</dimen>
+    <dimen name="altoCara">471dp</dimen>
+    <dimen name="margenCara">40dp</dimen>
+
+    <!--____________TEXTO______________-->
+    <dimen name="textoMain">28sp</dimen>
+    <dimen name="padingtextoMain">5dp</dimen>
+
+    <!--____________________MIDES GENERALS DE SECCIO__________________-->
+
+    <!--____________TITULS______________-->
+    <dimen name="titols">55sp</dimen>
+    <dimen name="padingtitols">20dp</dimen>
+
+
+    <!--_________________________MIDES ESTUDIS________________________________-->
+
+    <!--____________TEXT GENERAL______________-->
+    <dimen name="textEstudis">30sp</dimen>
+    <dimen name="padingtextoEstudis">15dp</dimen>
+
+    <!--_________________________MIDES PROFESIONAL________________________________-->
+
+    <!--____________BOTONS______________-->
+    <dimen name="textBotoProfecional">25sp</dimen>
+    <dimen name="padingbotonProfecional">5dp</dimen>
+    <dimen name="margelateralbotonProfecional">10dp</dimen>
+    <dimen name="anchoBoton">550dp</dimen>
+    <dimen name="altoBoton">30dp</dimen>
+    <dimen name="altoMinBoton">50dp</dimen>
+    <dimen name="radioBoton">8dp</dimen>
+
+    <!--____________LOGO______________-->
+
+    <dimen name="padinglogo">2dp</dimen>
+    <dimen name="anchoLogo">80dp</dimen>
+    <dimen name="altologo">70dp</dimen>
+
+
+    <!--_________________________MIDES DESCRIPCIO PROFESIONAL________________________________-->
+
+    <!--____________BOTONS______________-->
+
+    <dimen name="padingbotonAd">5dp</dimen>
+
+    <dimen name="altoBotonAd">60dp</dimen>
+    <dimen name="altoMinBotonAd">60dip</dimen>
+    <dimen name="radioBotonAd">6dp</dimen>
+
+    <!--____________LOGO______________-->
+
+    <dimen name="padinglogoDescripcio">6dp</dimen>
+    <dimen name="anchoLogoDescripcio">700dp</dimen>
+    <dimen name="altologoDescripcio">100dp</dimen>
+
+    <!--____________TEXTO______________-->
+
+    <dimen name="tituloDescripcion">30sp</dimen>
+    <dimen name="padingtitulDescripcio">5dp</dimen>
+
+    <dimen name="textoDescripcion">25sp</dimen>
+    <dimen name="textoDescripcionPadS">20dp</dimen>
+    <dimen name="textoDescripcionPadE">20dp</dimen>
+    <dimen name="textoDescripcionPadB">30dp</dimen>
+
+    <!--_________________________MIDES CARTES________________________________-->
+
+    <!--____________TEXT_TITUL______________-->
+    <dimen name="titulCarta">40sp</dimen>
+    <dimen name="padingtitulCarta">2dp</dimen>
+    <dimen name="separadortitul">2dp</dimen>
+
+    <!--____________TEXT_DADES______________-->
+
+    <dimen name="textCarta">25sp</dimen>
+    <dimen name="padingtextCarta">10dp</dimen>
+
+    <!--____________MIDES_CARTA______________-->
+
+    <!--<dimen name="ampleCarta">match_parent</dimen>-->
+    <!--<dimen name="altCarta">wrap_content</dimen>-->
+    <dimen name="margeCarta">10dp</dimen>
+    <dimen name="radiCarta">10dp</dimen>
+    <dimen name="ElevadorCarta">6dp</dimen>
+    <dimen name="ElevadorMaxCarta">8dp</dimen>
+
+
+</resources>

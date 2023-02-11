@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--____________________MIDES DEL MAINACTIVITY__________________-->
+
+    <!--___________IMAGEN______________-->
+    <dimen name="anchoCara">200dp</dimen>
+    <dimen name="altoCara">244dp</dimen>
+    <dimen name="margenCara">40dp</dimen>
+
+    <!--____________TEXTO______________-->
+    <dimen name="textoMain">16sp</dimen>
+    <dimen name="padingtextoMain">2dp</dimen>
+
+    <!--____________________MIDES GENERALS DE SECCIO__________________-->
+
+    <!--____________TITULS______________-->
+    <dimen name="titols">30sp</dimen>
+    <dimen name="padingtitols">15dp</dimen>
+
+    <!--_________________________MIDES ESTUDIS________________________________-->
+
+    <!--____________TEXT GENERAL______________-->
+    <dimen name="textEstudis">16sp</dimen>
+    <dimen name="padingtextoEstudis">7dp</dimen>
+
+    <!--_________________________MIDES PROFESIONAL________________________________-->
+
+    <!--____________BOTONS______________-->
+    <dimen name="textBotoProfecional">12sp</dimen>
+    <dimen name="padingbotonProfecional">3dp</dimen>
+    <dimen name="margelateralbotonProfecional">10dp</dimen>
+    <dimen name="anchoBoton">276dp</dimen>
+    <dimen name="altoBoton">10dp</dimen>
+    <dimen name="altoMinBoton">35dp</dimen>
+    <dimen name="radioBoton">5dp</dimen>
+
+    <!--____________LOGO______________-->
+
+    <dimen name="padinglogo">1dp</dimen>
+    <dimen name="anchoLogo">40dp</dimen>
+    <dimen name="altologo">35dp</dimen>
+
+
+    <!--_________________________MIDES DESCRIPCIO PROFESIONAL________________________________-->
+
+    <!--____________BOTONS______________-->
+
+    <dimen name="padingbotonAd">1dp</dimen>
+
+    <dimen name="altoBotonAd">30dp</dimen>
+    <dimen name="altoMinBotonAd">30dip</dimen>
+    <dimen name="radioBotonAd">3dp</dimen>
+
+    <!--____________LOGO______________-->
+
+    <dimen name="padinglogoDescripcio">3dp</dimen>
+    <dimen name="anchoLogoDescripcio">350dp</dimen>
+    <dimen name="altologoDescripcio">50dp</dimen>
+
+    <!--____________TEXTO______________-->
+
+    <dimen name="tituloDescripcion">16sp</dimen>
+    <dimen name="padingtitulDescripcio">1dp</dimen>
+
+    <dimen name="textoDescripcion">16sp</dimen>
+    <dimen name="textoDescripcionPadS">10dp</dimen>
+    <dimen name="textoDescripcionPadE">10dp</dimen>
+    <dimen name="textoDescripcionPadB">15dp</dimen>
+
+    <!--_________________________MIDES CARTES________________________________-->
+
+    <!--____________TEXT_TITUL______________-->
+    <dimen name="titulCarta">20sp</dimen>
+    <dimen name="padingtitulCarta">1dp</dimen>
+    <dimen name="separadortitul">1dp</dimen>
+
+    <!--____________TEXT_DADES______________-->
+
+    <dimen name="textCarta">15sp</dimen>
+    <dimen name="padingtextCarta">5dp</dimen>
+
+    <!--____________MIDES_CARTA______________-->
+
+    <!--<dimen name="ampleCarta">match_parent</dimen>-->
+    <!--<dimen name="altCarta">wrap_content</dimen>-->
+    <dimen name="margeCarta">5dp</dimen>
+    <dimen name="radiCarta">5dp</dimen>
+    <dimen name="ElevadorCarta">3dp</dimen>
+    <dimen name="ElevadorMaxCarta">4dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+
+</resources>

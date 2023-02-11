@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cartaConeixements"
+    style="@style/Carta">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titulConeixement"
+            style="@style/TitulCarta"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/coneixementsList"
+            style="@style/TextCarta"
+            android:text="TextView" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

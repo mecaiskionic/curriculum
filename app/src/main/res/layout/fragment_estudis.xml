@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragments.principals.Estudis">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/TitolFragment"
+        android:text="@string/academic" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView14"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/eso" />
+
+            <TextView
+                android:id="@+id/textView15"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mitja" />
+
+            <TextView
+                android:id="@+id/textView16"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cnc" />
+
+            <TextView
+                android:id="@+id/textView17"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/matrius" />
+
+            <TextView
+                android:id="@+id/textView18"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/superior1" />
+
+            <TextView
+                android:id="@+id/textView19"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/superior2" />
+
+            <TextView
+                android:id="@+id/textView20"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/plc" />
+
+            <TextView
+                android:id="@+id/textView21"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/angles" />
+
+            <TextView
+                android:id="@+id/textView22"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/motlles" />
+
+            <TextView
+                android:id="@+id/textView23"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cimatron" />
+
+            <TextView
+                android:id="@+id/textView24"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mecanografia" />
+
+            <TextView
+                android:id="@+id/textView25"
+                style="@style/TextEstudis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/carrera" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0048FF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F9F9F9</color>
+
+    <color name="marcoCara">#000000</color>
+    <color name="textoTmain">#000000</color>
+
+    <color name="titols">#000000</color>
+
+    <color name="textEstudis">#000000</color>
+
+    <color name="logofals">#00FFFFFF</color>
+    <color name="botoprofecional">#B3B3B3</color>
+    <color name="botoprofecionalCentro">#E6E6E6</color>
+    <color name="textBotonProfecional">#000000</color>
+
+    <color name="titulDescripcio">#000000</color>
+    <color name="textDescripcio">#000000</color>
+    <color name="fondoDescripcio">#00F9F9F9</color>
+
+    <color name="titulCarta">#000000</color>
+    <color name="fondotitulcarta">#31754A</color>
+    <color name="textCarta">#000000</color>
+    <color name="SeparadorCarta">#000000</color>
+    <color name="fondoCarta">#ffffff</color>
+</resources>

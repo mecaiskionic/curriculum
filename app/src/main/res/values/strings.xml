@@ -1,0 +1,313 @@
+<resources>
+
+    <string name="app_name">Curriculum Isaac</string>
+
+    <!-- __________________________________________DADES PERSONALS_________________________________________________-->
+    <!--***********************************************************************************************************-->
+
+    <!--______________TITULS DE DADES______________-->
+    <string name="Tnom">Name and surname: </string>
+    <string name="TDNI">ID: </string>
+    <string name="Tneixement">Birthday: </string>
+    <string name="Tadresa">Address: </string>
+    <string name="Ttelefon">Phone number: </string>
+    <string name="Tmail">E-Mail: </string>
+    <string name="Testat">Status: </string>
+
+    <!--_________________DADES_____________________-->
+    <string name="nom">Isaac Serrano Segura</string>
+    <string name="DNI">47824289K</string>
+    <string name="neixement">Pinell de Brai,\n april 19th, 1985</string>
+    <string name="adresa">Av. Tarragona 19 3/3º,\n Vilafranca del Penedès,\n08720</string>
+    <string name="telefon">628039336</string>
+    <string name="mail">serranosegurai@gmail.com</string>
+    <string name="estat">Married/without children</string>
+
+    <!--___________________________________TITULS DE LES SECCIONS O FRAGMENTS______________________________________ -->
+    <!--***********************************************************************************************************-->
+    <string name="index">Personal data</string>
+    <string name="academic">Academic formation</string>
+    <string name="profecional">Professional experience</string>
+    <string name="coneixements">Knowledge learned</string>
+    <string name="complementari">Complementary data</string>
+    <string name="projectes">Personal Projects</string>
+    <string name="descripcio">Description</string>
+
+    <!--___________________________________TITULS DE LES SECCIONS O FRAGMENTS______________________________________ -->
+    <!--***********************************************************************************************************-->
+    <string name="trucar">Call</string>
+    <string name="imprimir">Print</string>
+    <string name="configurar">Configuration</string>
+    <string name="about">About this</string>
+    <string name="sortir">Exit</string>
+
+    <!--___________________________________CONTINGUT DE LA ACTVITAT INFORMACIÓ______________________________________ -->
+    <!--***********************************************************************************************************-->
+    <string name="titulinfo">Curriculum Isaac (Beta)</string>
+    <string name="contingutInfo">
+        -App programmed by Isaac Serrano\n
+        -Version 2.04, Updated 16/02/2023\n
+        -Version in beta yet, it mean the program is end, now it is distributed because be tested with different
+        machines, if is found some bug or bad view, please report the problem for be fixed.\n\n
+        -Update information 01/02/2023.
+    </string>
+
+    <!--____________________________________________FRAGMENT ESTUDIS________________________________________________ -->
+    <!--***********************************************************************************************************-->
+
+    <!--________________ESTUDIS____________________ -->
+    <string name="eso">-ESO. Institut d\’Ensenyament Secundari i Idiomes Terra Alta. 1997/2002.</string>
+    <string name="mitja">-Intermediate training cycle of machinist. IES de l\’Ebre. 2002/2004.</string>
+    <string name="cnc">-Course of 609h control numeric computer. ASCAMM. 2004.</string>
+    <string name="matrius">-Course of 590h design of dies.  ASCAMM. 2005.</string>
+    <string name="superior1">-Higher training cycle of machinist production. IES Jaume Mimó. 2006/2007</string>
+    <string name="superior2">-Higher training cycle of machinist production. IES de l\'Ebre. 2007/2008</string>
+    <string name="plc">-Course of programmable logic controller. Euroinnova. 2009</string>
+    <string name="angles">-English study ABA English 2014/2017</string>
+    <string name="motlles">-Course of design of molds. ASCAMM 2017</string>
+    <string name="cimatron">-Course of Cimatron E. Cimatech 2017</string>
+    <string name="mecanografia">-Course of Typing. TypingStudy 2019</string>
+    <string name="carrera">-Start to mechanical engineer. UNED 2019-In process</string>
+
+    <!--________________CURIOSITATS____________________ -->
+
+    <string name="curiosidad_cnc">-Like any professional career, it begins with training, and
+        I would like do mention of the CNC studies in ASCAMM, there I was the best of the promotion, finishing the
+         training with an advantage of a month and half of work compared to the second of the promotion.
+    </string>
+    <string name="curiosidad_superior">-The higher training cycle. there I taught two quarters
+         of class to my classmates, the subject was CAD-CAM, and the teacher considered that my knowledge
+         of the subject were better, so he proposed to me be the teacher.</string>
+
+
+    <!--__________________________________________FRAGMENT PROFECIONAL______________________________________________ -->
+    <!--***********************************************************************************************************-->
+
+    <!--________________EMPRESES____________________ -->
+    <string name="goro">GORO. 2006/2010.</string>
+    <string name="norelacio">Jobs without relation with engineering 2010/2012</string>
+    <string name="canela">CANELA TOOLS. 2013/2014.</string>
+    <string name="multivac">MULTIVAC. 2014/2016.</string>
+    <string name="proto">PROTO-TECH. 2016.</string>
+    <string name="molmat">MOLMAT. 2017/Present</string>
+
+    <!--________________EXPLICACIO____________________ -->
+
+    <string name="explic">Select experience to get information</string>
+
+    <!--________________DESCRIPCIO____________________ -->
+
+    <string name="dgoro">
+        -GORO is a company that was closed in 2010 because the 2008 economic crisis.\n
+        It was dedicated to the manufacture of gift products, decoration, jewelry, custom-made products…\n
+        -My functions were very varied, because the type of product they made so varied, they also used
+        many very different ways of production, also, and for my restlessness and involvement, I had an important
+        evolution, from cleaning the place to managing the production.\n
+        There I did manual work, turning, milling, polishing, welding with very different techniques, making molds in the
+        lost wax, cutting dies, painting, CNC programming, designing work procedures, organizing the
+        work, 3D design and much more.\n
+        I also worked with many materials, industrial metals, many types of wood, precious metals, plastics…\n
+        -I would like appreciate the trust they put me like the manager of production with just 23 years old,
+        I only managed 8 workers, but it was a great learning for me.
+        There I done productive studies and implemented production systems very different from those used until
+        this moment, I designed, mechanized and assembled several automatic machines adapted to new systems of
+        production, this did grow up the productivity more than 250%.
+    </string>
+
+    <string name="dnorelacio">
+        -During this period of time, because of the area where I was born and living, it was practically impossible to work
+        in the industry, so I decided to use some other of my skills to earn a living.
+        So I began to teach guitar, private and schools, to teach chess, and to do
+        tour guide on weekends, I even started composing an author album. \ n
+        -At the end of 2012 I decided to go back to the industry, leaving my town, family and friends to go to
+        look for work in Barcelona.
+    </string>
+
+    <string name="dcanela">
+        -CANELA TOOLS is a company that manufactures cutting tools for turning machines, milling machines, etc.\n
+        -My job was in technical office as a CNC programmer.\n
+        -My function was to optimize the CNC programs of the manufacturing plant, the way to work was as if
+        there not have program, about to stock, automatic work orders were created that had to enter the machine
+        sooner. So, I reprogrammed the program optimizing code and time, I sent to machine
+        taking responsibility of the programs to work correctly, as well as of the production line consisting of 10
+        milling machines, and it cannot stop.\n
+        -In this point I like to explain that all the milling machines had 5 axis, and it was programmed typing code for
+        optimization of machine movements, using high-level parametric language. I like explain this because i was
+         few years more in the industry, and I could watch that there are not many people with enough skills to do it.\n
+        -I implemented a new and more efficient programming system, where I optimized the machining strategy guaranteeing
+        the same quality with higher production. My work there was finished once all the programs were
+        optimized.
+    </string>
+
+    <string name="dmultivac">
+        -MULTIVAC is a company that manufactures machinery and molds for packaging.\n
+        -I entered here as a CNC turning serial production machines, in just 2 months I was a preparer,
+        In 6 months my preparations were the best of the plant, since I optimized the procedure and
+        reprogram the programs making them much faster. So a year they moved me to the machining centers
+        to make special pieces.\n
+        -I applied standardized work systems for preparers, optimized work procedures,
+        I implemented new programming systems, I even organized tests for tools, and cutting speeds.\n
+        -Until my direct boss, the section manager, decided to promote only me, as the only programmer
+        of turning for all the plant.\n
+        -It was a great experience in a big multinational, with a plant of 150 workers, the biggest company that
+        I have worked, but unfortunately, I decided to leave this place because I had a great job offer.
+    </string>
+
+    <string name="dproto">
+        -PROTO-TECH is a company that manufacture prototypes for the automobile, parts
+        for assembly of the first car, also machining a 1:1 scale car. They also make dies for the
+        automotive industry, gadgets for production quality testing, and some other things.\n
+        -I was hired as a CAD-CAM programmer in the technical office.\n
+        -In this experience I did some interesting things, like working on giant CNC milling machines and
+        use and program my first robot, it was a KUKA 6-axis articulated arm, nobody knew how it worked
+        and they had it standing there, until I started it.\n
+        -It be end, because I had disagreements with the work manager, I decided to leave the job.
+    </string>
+
+    <string name="dmolmat">
+        -MOLMAT is a mold and die manufacturing company. The measures of the tools are medium and large, between 1 and 20 tons.
+        The types of molds that work are: cast aluminum, thermosetting for pressure vulcanizing, injection of
+        different types of plastic, bi-material rotary…\n
+        -The job is as a mold designer. The basic functions are to design the molds,
+        although part of my job is direct contact with the client to adapt the designs to their needs,
+        Preliminary design, design and 3D drawing of the project, create documentation for manufacturing, contact
+        suppliers, requests for quotes and purchases, manufacturing and assembly monitoring, testing monitoring
+        and manage touch-ups.\n
+        -As it cannot be of other way, I have implement news work procedures, like creating
+        of an automatic bill of material generation system, the introduction of these bills to the
+        management software automatically, creation of a new normative of build molds, normalization of parameterized 3Ds,
+        creation of a purchase system based on pre-made email templates, software development, creation of
+        mathematical calculations, program an IA for take decisions, motion simulations for designs, supplier evaluation…\n
+        -I am searching a company bigger and where the resource not be a problem because I
+        can implement all my knowledge in all environments.
+    </string>
+
+    <!--__________________________________________FRAGMENT CONEIXEMENTS______________________________________________ -->
+    <!--***********************************************************************************************************-->
+
+    <!--________________TIPO____________________ -->
+    <string name="cad">CAD</string>
+    <string name="cam">CAM</string>
+    <string name="fresa">Milling CNC</string>
+    <string name="torn">Turning CNC</string>
+    <string name="llenguatges">Software</string>
+    <string name="programes">Office</string>
+    <string name="idiomes">Languages</string>
+    <string name="complementaries">More</string>
+
+    <!--________________DADES____________________ -->
+    <string name="Dcad">
+        -Cimatron E\n
+        -Inventor\n
+        -Autocad\n
+        -Catia\n
+        -FreeCad
+    </string>
+    <string name="Dcam">
+        -Cimatron E\n
+        -Tebis\n
+        -SprutCam\n\n
+    </string>
+    <string name="Dfresa">
+        -Fagor\n
+        -Siemens\n
+        -Heidenhain\n
+        -Fanuc
+    </string>
+    <string name="Dtorn">
+        -Siemens\n
+        -Fanuc\n\n
+    </string>
+    <string name="Dllenguatges">
+        -Java\n
+        -Android\n
+        -SQL\n
+        -Python\n
+        -Prolog\n
+        -More…
+    </string>
+    <string name="Dprogrames">
+        -Office Environment\n
+        -Google Environment\n
+        -Open source software\n
+        -OS Windows and Linux\n
+    </string>
+    <string name="Didiomes">
+        -Catalan Nativ\n
+        -Spanish Nativ\n
+        -English B2 Intermediate\n
+
+    </string>
+    <string name="Dcomplementaries">
+        -License B of driver\n
+        -Guitar teacher\n
+        -Martial arts\n
+        -Draw in art school
+    </string>
+
+    <!--__________________________________________FRAGMENT PROJECTES______________________________________________ -->
+    <!--***********************************************************************************************************-->
+
+    <!--________________TIPO____________________ -->
+    <string name="composicio">To compose music</string>
+    <string name="aplicacio">Distributed Android APP</string>
+    <string name="os">My Own Operating System</string>
+    <string name="Maquina">Build a CNC machine</string>
+    <string name="IA_gestio">Management program with AI</string>
+
+
+    <!--________________DADES____________________ -->
+    <string name="Dcomposicio">
+        I have composed several songs in my life, I have never published any. But we could say that as a challenge to compose music, a challenge achieved,
+         As a second challenge in this aspect, I would have to publish my compositions one day in the form of an album, or put them on the market for
+         let a good interpreter make them public.
+    </string>
+    <string name="Daplicacio">
+        I created an entire mobile app by myself.\n
+         One day I had the problem of going to a job interview and I didn\'t have an updated curriculum, I have the curriculum in 3 languages,
+         so updating the resume requires some work, besides, I had a folder on my computer with many updates in 3 languages.\n
+         I also realized that every job interview I had to do had to print multiple copies of multiple pages with multiple languages,
+         so I programmed this application for my resume.\n\n
+         So I thought it would be a problem that many people would have. I started programming a generic app, bought hardware and set up my own server,
+         I programmed a database with mysql, I started paying for a static ip and I posted the application on google play.
+         Since I couldn't dedicate the time required to maintain an App with these characteristics, I decided to turn off the server and remove it.\n
+         Project Done.
+
+    </string>
+    <string name="Dos">
+        As in my work experience, both on a machine, as a programmer or designer, I realized that my main tool was always really
+         a computer, I decided to learn more about the work tool that I used daily, so I began to investigate operating systems.\n
+         With this concern and the obsession to make everything around me efficient, I decided to model the tool to do what I wanted.
+         as I wanted.\n
+         Thanks to the community of computer scientists and free software, I was able to get tools and programs already programmed, such as the linux kernel, a command terminal,
+         and a package manager. From there I looked for packages already created, for basic functions such as the screen server that translates the data from the computer
+         in screen data, or bluetooth, etc. I programmed my own desktop with a project I found that allows you to program it in python, I designed the
+         behavior of windows that were ordered automatically according to a command given with the keyboard, I created menus, I put necessary information for me in the
+         taskbar, like the price of some shares, or etherum next to the date and time to be informed, keyboard commands for faster work.\n
+         In the end, I left the tool to my needs.\n
+         I finished this project with the creation of the same operating system created, as installable and with a live USB, where with a USB I could start it in
+         any computer, work with my operating system, settings and programs, and remove it leaving the computer in question as it was, without a trace.\n
+         Finished project.
+    </string>
+    <string name="Dcnc">
+        Working on a mill and lathe, I always imagined how to automate the work, how to add a part loader, how to change a part from one machine to another,
+         add machine opening systems, automatic cleaning…\n
+         Once I acquired the necessary knowledge of systems and software, I started with this project, mechanically designing a machine, assembling the hardware and programming.
+         my own cnc, for this endowing the project with a large electronic and electrical part.
+         Project in progress, working on the electronic part.
+    </string>
+    <string name="DIA">
+        After acquiring a good knowledge of software, with android, python, java… I thought of going one step further in automation, I had imagined hundreds of times
+         like programming a more personalized business management program, more efficient than what I had seen so far, I wanted something more automatic.\n
+         For this I thought that the maximum automation is for the machines to learn to make the right decisions by themselves, and I delved into the exciting
+         world of artificial intelligence, I realized that there are great advances in language and vision, but that decision making is related to the operation
+         of a company with its tasks, it was not something widespread and required more knowledge, mathematics and algorithms.
+         Right now I am developing a software project for a simulated mold company, which is where I have work experience, this project is more complex
+         and expensive than the others, since I plan to teach the machines to design the molds, program the machines, organize the work, make budgets,
+         contact suppliers, purchase materials… all automatically.\n
+         I already have in my mind how I am going to do it, programmed part of the automatic design and part of the graphic interface, but I still have many hours of work and some of
+         investigation, but I am fully qualified to carry it out, which already seems to me an achievement in itself.\n
+         Project in development.
+    </string>
+
+</resources>
