@@ -141,6 +141,18 @@
         <item name="android:textColor">@color/titulCarta</item>
         <item name="android:background">@drawable/titul_carta</item>
     </style>
+    <style name="TitulCarta2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padingtitulCarta</item>
+        <item name="android:textSize">@dimen/titulCarta</item>
+        <item name="android:layout_marginBottom">@dimen/separadortitul</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/titulCarta</item>
+        <item name="android:background">@drawable/titul_carta2</item>
+    </style>
 
     <style name="TextCarta">
         <item name="android:layout_width">match_parent</item>

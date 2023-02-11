@@ -10,8 +10,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.mecaiskitronic.curriculum.AdaptadorCards;
+
 import com.mecaiskitronic.curriculum.R;
+import com.mecaiskitronic.curriculum.fragments.AdaptadorCards2;
 
 import java.util.ArrayList;
 
@@ -42,7 +43,7 @@ public class Projectes extends Fragment {
 
         LlenarInfo();
 
-        AdaptadorCards adaptador=new AdaptadorCards(listaCartas);
+        AdaptadorCards2 adaptador=new AdaptadorCards2(listaCartas);
         listado.setAdapter(adaptador);
         return VISTA;
     }

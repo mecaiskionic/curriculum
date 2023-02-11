@@ -22,6 +22,7 @@
 
     <color name="titulCarta">#000000</color>
     <color name="fondotitulcarta">#31754A</color>
+    <color name="fondotitulcarta2">#FF0000</color>
     <color name="textCarta">#000000</color>
     <color name="SeparadorCarta">#000000</color>
     <color name="fondoCarta">#ffffff</color>

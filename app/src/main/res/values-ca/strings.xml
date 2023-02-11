@@ -283,10 +283,10 @@
          i un gestor de paquets. A partir d\'aquí vaig buscar paquets ja creats, per a funcions bàsiques com el servidor de pantalla que tradueix les dades de l\'ordinador
          en dades de pantalla, o bluetooth, etc. Vaig programar el meu propi escriptori amb un projecte que vaig trobar que et permet programar-lo amb python, vaig dissenyar el
          comportament de les finestres que s\'ordenaven automàticament segons una ordre donada amb el teclat, vaig crear menús, vaig posar informació necessària per a mi a la
-         barra de tasques, com el preu d'algunes accions al costat de la data i l'hora per estar informat, ordres de teclat per a un treball més ràpid.\n
-         En fi vaig deixar l'eina a mida.\n
+         barra de tasques, com el preu d\'algunes accions al costat de la data i l\'hora per estar informat, ordres de teclat per a un treball més ràpid.\n
+         En fi vaig deixar l\'eina a mida.\n
          Vaig culminar aquest projecte amb la creació del mateix sistema operatiu creat, com a instal·lable i amb un live en USB, on amb un USB podia arrencar-lo a
-         qualsevol ordinador, treballar amb el meu sistema operatiu, configuració i programes, i treure'l deixant l'ordinador en qüestió com estava, sense deixar rastre.\n
+         qualsevol ordinador, treballar amb el meu sistema operatiu, configuració i programes, i treure\'l deixant l\'ordinador en qüestió com estava, sense deixar rastre.\n
          Projecte acabat.
     </string>
     <string name="Dcnc">
